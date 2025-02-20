@@ -5,7 +5,7 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-The project involves setting up Active Directory on Windows Server 2022, complete with essential components such as a DNS Server, DHCP Server, and RAS Server, accommodating over 1000 users to simulate an enterprise environment. The goal of this project is to gain a deeper understanding of Active Directory and server management. It was executed using a VM to optimize resources, allowing flexibility to configure the entire lab according to specific learning objectives. Additionally, PowerShell was utilized to explore automating routine tasks.
+The project involves setting up Active Directory on Windows Server 2022, complete with essential components such as a DNS Server, DHCP Server, and RAS Server, accommodating over 1000 users to simulate an enterprise environment. Organizational Units (OUs) were created to structure and manage users efficiently, along with Group Policy Objects (GPOs) to enforce security policies and system configurations across the lab environment. The goal of this project is to gain a deeper understanding of Active Directory and server management. It was executed using a VM to optimize resources, allowing flexibility to configure the entire lab according to specific learning objectives. Additionally, PowerShell was utilized to explore automating routine tasks.
 <br />
 
 
